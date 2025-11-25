@@ -17,6 +17,11 @@
     *   Opening (斷開)
     *   Closing (閉合)
     *   *包含自定義結構元素 (Kernel) 與圖形化驗證*
+*   **02_Histogram_Processing (直方圖處理)**
+    *   Histogram Calculation (直方圖計算)
+    *   Histogram Equalization (直方圖均化) - 包含課本模擬題
+    *   Histogram Matching (直方圖匹配)
+    *   *包含詳細計算過程推導表格*
 
 ## 🚀 如何執行
 
@@ -36,6 +41,7 @@ streamlit run app.py
 *   `app.py`: 應用程式主入口，包含首頁介紹。
 *   `pages/`: 存放各個主題的頁面程式碼。
     *   `01_Morphological.py`: 形態學運算頁面。
+    *   `02_Histogram_Processing.py`: 直方圖處理頁面。
 *   `utils.py`: 共用工具函式 (如繪圖功能)。
 *   `problem_generation_prompt.md`: 題目生成提示詞 (開發用)。
 

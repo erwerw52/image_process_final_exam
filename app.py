@@ -16,6 +16,7 @@ st.markdown("""
 
 #### 目前收錄主題：
 - **01_Morphological**: 形態學運算 (Dilation, Erosion, Opening, Closing)
+- **02_Histogram_Processing**: 直方圖處理 (Calculation, Equalization, Matching)
 - (更多主題陸續新增中...)
 
 #### 系統特色：
